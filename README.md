@@ -35,8 +35,6 @@ This project aims to track and manage the accumulation of yellow and red cards b
     Triggered when a player accumulates 5 yellow cards or when player receives a red card in the most recent match.
 - Reset Notification:
     Triggered after the player has served the suspension by missing a match.
-![notify1](/asset/offence_notification.png)
-![notify2](/asset/offence_notification2.png)
 
 #### Visualization
 ![viz](/asset/tracker_viz.png)
